@@ -1,0 +1,436 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lachryme sacerdotis a pindarick poem occasion'd by the death of that Most Excellent Princess, our late gracious sovereign lady, Mary the Second of glorious memory / by Henry Park ...</title>
+            <author>Park, Henry, d. 1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55969</idno>
+            <idno type="STC">Wing P362</idno>
+            <idno type="STC">ESTC R11727</idno>
+            <idno type="EEBO-CITATION">13798415</idno>
+            <idno type="OCLC">ocm 13798415</idno>
+            <idno type="VID">101874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 470:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lachryme sacerdotis a pindarick poem occasion'd by the death of that Most Excellent Princess, our late gracious sovereign lady, Mary the Second of glorious memory / by Henry Park ...</title>
+                  <author>Park, Henry, d. 1704.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ... and are also to be sold by Edm. Richardson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101874:1"/>
+            <pb facs="tcp:101874:1" rendition="simple:additions"/>
+            <p>Lachrymae Sacerdotis.</p>
+            <p>A Pindarick Poem Occaſion'd by the DEATH Of that moſt excellent Princeſs, our late <hi>Gracious Sovereign Lady, Mary the Second,</hi> Of Glorious Memory.</p>
+            <p>By <hi>HENRY PARK,</hi> Curate of <hi>Wentworth</hi> in <hi>Yorkſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Iohn Dunton,</hi> at the <hi>Raven</hi> in <hi>Jewen-ſtreet,</hi> and are alſo to be Sold by <hi>Edm. Richardſon,</hi> in the upper Court in <hi>Scalding-Alley,</hi> near the <hi>Poultry-Church,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:101874:2"/>
+            <pb n="1" facs="tcp:101874:2" rendition="simple:additions"/>
+            <head>A Pindarick Poem UPON THE DEATH OF THE QUEEN.</head>
+            <lg>
+               <head>I.</head>
+               <l>FAding and Fugitive, alas!</l>
+               <l>Is life and all its tranſient Joys,</l>
+               <l>Which men purſue with <hi>big</hi> Con<g ref="char:EOLhyphen"/>cern and Noiſe.</l>
+               <l>
+                  <pb n="2" facs="tcp:101874:3"/>
+Like <hi>poſting ſhades</hi> they come and go,</l>
+               <l>Capriciouſly they ebb and flow,</l>
+               <l>As in their <hi>ſilver tides</hi> the fickle Waters do:</l>
+               <l>Time<hi>'s little Envoys</hi> that inhabit Glaſs,</l>
+               <l>With ſilent ſpeed the moments paſs,</l>
+               <l>Fleet, in their brittle houſe they run,</l>
+               <l>With Heaven's Antartick Traveller, the Sun.</l>
+               <l>They count his Lucid Journeys in the day,</l>
+               <l>And in the <hi>Night</hi> purſue his abſent Ray.</l>
+               <l>Yet they, with all their pious haſte,</l>
+               <l>With all their <hi>ſhare of heels,</hi> ſcarce run ſo faſt</l>
+               <l>As human life, <hi>that was, and is, and then is paſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>To Nature's dark Retreats we all <hi>must go,</hi>
+               </l>
+               <l>Inexorable <hi>Fate</hi> will have it ſo;</l>
+               <pb facs="tcp:101874:3"/>
+               <pb facs="tcp:101874:4"/>
+               <l>
+                  <pb n="3" facs="tcp:101874:4"/>
+The <hi>raw bon'd Archer</hi> hits us all;</l>
+               <l>Struck by his Old Victorious Dart, we fall.</l>
+               <l>The pious, witty, fair and ſtrong,</l>
+               <l>The <hi>snowy aged,</hi> and the <hi>fiery young,</hi>
+               </l>
+               <l>They all muſt croſs the <hi>ſooty Lake</hi> at laſt,</l>
+               <l>And the oblivious Waters taſte;</l>
+               <l>Even <hi>they,</hi> who <hi>by their High Deſcended Birth,</hi>
+               </l>
+               <l>Do <hi>Perſonate</hi> the Gods on Earth;</l>
+               <l>The awful Sons of <hi>Purple Majeſty,</hi>
+               </l>
+               <l>that wear the <hi>Tyrian</hi> Fiſhes Livery,</l>
+               <l>They likewiſe ſoon or late</l>
+               <l>Muſt bend their conſecrated Heads to fate,</l>
+               <l>Wrapt up in dull <hi>Narcotick</hi> Lead,</l>
+               <l>A fit reception for the cold and Dead;</l>
+               <l>In balmy Urns they lye,</l>
+               <l>The <hi>Aromatick</hi> ſpoils of Deſtiny.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>What Head can hope to be</l>
+               <l>Exempted from Mortality;</l>
+               <l>
+                  <pb n="4" facs="tcp:101874:5"/>
+Who can ſecure their hov'ring Breath,</l>
+               <l>When <hi>Glorious Mary</hi> yeilds to Death?</l>
+               <l>She in whom Luſtre, Pomp and Gran<g ref="char:EOLhyphen"/>deur ſhin'd,</l>
+               <l>And all the <hi>God like Gifts</hi> combin'd,</l>
+               <l>A graceful Aſpect, and a Port Divine,</l>
+               <l>
+                  <hi>A Female Sweetneſs, Courage Maſculine,</hi>
+               </l>
+               <l>Majeſtick Dread, yet free Addreſs,</l>
+               <l>Awe, without Superciliouſneſs,</l>
+               <l>Kind clemency, and <hi>bright Imperial Meen,</hi>
+               </l>
+               <l>All theſe united, in her looks were ſeen;</l>
+               <l>Nor were the Dowry's of her Soul</l>
+               <l>Leſs Charming than her <hi>outward Parts,</hi>
+               </l>
+               <l>
+                  <hi>By both ſhe purchas'd Love, by both ſhe gain'd our Hearts;</hi>
+               </l>
+               <l>Thoſe immaterial wonders of the Mind,</l>
+               <l>A well-form'd Judgment, and a Wit re<g ref="char:EOLhyphen"/>fin'd,</l>
+               <l>A Fortitude, that made her ſtand ſedate,</l>
+               <l>'Midſt the Convulſions of a <hi>giddy State,</hi>
+               </l>
+               <pb facs="tcp:101874:5"/>
+               <pb facs="tcp:101874:6"/>
+               <l>
+                  <pb n="5" facs="tcp:101874:6" rendition="simple:additions"/>
+                  <hi>A Piety,</hi> that breath'd Seraphick Flame,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>j<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>y'd Honour,</hi> and a ſpotleſs Fame,</l>
+               <l>
+                  <hi>A Charity,</hi> unbounded, large, and Free,</l>
+               <l>
+                  <hi>Diffuſive as the Deity.</hi>
+               </l>
+               <l>All theſe Baſilick Graces in her met,</l>
+               <l>to make the Saint, elaborately great.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>Whilſt ſome, Drunk with Deſpotick ſway, did try,</l>
+               <l>To raiſe the ſcenes of hated Tyranny,</l>
+               <l>Our <hi>Charming Regent ſtrove</hi>
+               </l>
+               <l>To Govern, by the milder Laws of Love;</l>
+               <l>For well the gentle <hi>Empreſs</hi> knew,</l>
+               <l>That <hi>Mercy</hi> was the All-cementing Glue,</l>
+               <l>That ſtubborn Crouds to chearful Homage drew;</l>
+               <l>Even her Foes, inhuman, fierce, and rude,</l>
+               <l>She gain'd, by <hi>all indearing Manſuetude,</hi>
+               </l>
+               <l>And by <hi>Pacifick Arts</hi> did try,</l>
+               <l>To make 'em bluſh at their Diſloyalty.</l>
+               <l>Thus ſafe, without the <hi>Brawny Switz</hi> to Guard,</l>
+               <l>Or the <hi>dull Teague,</hi> to fill her <hi>Palace-yard.</hi>
+               </l>
+               <l>She, the bright Sexes Ornament and Pride,</l>
+               <l>Liv'd much belov'd and more lamented dy'd,</l>
+               <l>
+                  <pb n="6" facs="tcp:101874:7"/>
+Leaving the <hi>Brittiſh Chronicles</hi> a Name,</l>
+               <l>That ſhall to endleſs Age her Worth Proclaim,</l>
+               <l>Born on the never-molting Wings of Fame.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>But, tho with <hi>Gentle Reins,</hi> ſhe Rul'd us here,</l>
+               <l>Abroad ſhe taught her Foes to fear,</l>
+               <l>Like the Mellifluous Lion <hi>Sampſon</hi> ſlew,</l>
+               <l>She had her <hi>Strength,</hi> as well as <hi>Sweetneſs</hi> too,</l>
+               <l>So haughty <hi>Tourvil</hi> knew;</l>
+               <l>Who, when he came t' inſult the <hi>Brittiſh</hi> Shore,</l>
+               <l>Proud of a <hi>Triumph bought before;</hi>
+               </l>
+               <l>She in the greateſt hazards, <hi>calmly brave,</hi>
+               </l>
+               <l>Steadily Conſtant, Wiſe and Grave,</l>
+               <l>With an Intrepid <hi>Roman</hi> Heart did hear</l>
+               <l>Th' <hi>amazing Tidings,</hi> yet diſdain'd to Fear;</l>
+               <l>She ſent her <hi>Fulminating Navy</hi>'s out,</l>
+               <l>And <hi>Ruſſel</hi> put the baffl'd <hi>Gaul</hi> to ſhameful Rout;</l>
+               <l>With like ſucceſs, of old <hi>Briareus</hi> ſtrove</l>
+               <l>To Vanquiſh all the Deities above;</l>
+               <l>
+                  <hi>Jove,</hi> and his Goddeſs, both Survey'd the Fight,</l>
+               <l>Reſolving to maintain <hi>Elizium</hi>'s Right;</l>
+               <l>Vext at the <hi>many-handed Man,</hi>
+               </l>
+               <l>They hurl'd their powerful Thunders once a<g ref="char:EOLhyphen"/>gain,</l>
+               <pb facs="tcp:101874:7"/>
+               <pb facs="tcp:101874:8"/>
+               <l>
+                  <pb n="7" facs="tcp:101874:8"/>
+And when they had the brandiſh'd Vengeance thrown,</l>
+               <l>They quickly ſtruck the bold Aggreſſour down,</l>
+               <l>Rally'd the routed Gods, and bravely kept their own.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>You, that <hi>with unjudicious Joy,</hi> did wait,</l>
+               <l>To hear of <hi>Mary</hi>'s mournful Fate,</l>
+               <l>Leave off to be Profanely Rude,</l>
+               <l>Come, and ſee ſorrow in its <hi>Pulchritude,</hi>
+               </l>
+               <l>View in the <hi>Brittiſh Nymphs</hi> a Noble ſtrife,</l>
+               <l>Who ſhould excel in more Ingenious Grief,</l>
+               <l>Clad, like the <hi>Sunleſs World,</hi> in ſhades they go,</l>
+               <l>Yet bright they ſhine in their Eclipſes too,</l>
+               <l>
+                  <hi>Gracing Afflictions,</hi> and <hi>adorning Woe:</hi>
+               </l>
+               <l>So when the Queen of <hi>Probity</hi> was driven,</l>
+               <l>By mens unequal deeds, from Earth to Heaven,</l>
+               <l>
+                  <hi>Diana</hi> broke her Silver Bow,</l>
+               <l>And all the lovely Chaſtities below,</l>
+               <l>Knowing the <hi>Goddeſs</hi> would no more return,</l>
+               <l>Put on their <hi>Sables,</hi> and agreed to Mourn.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:101874:9"/>
+               <head>VII.</head>
+               <l>But we in vain our <hi>Pious Woes</hi> relate,</l>
+               <l>
+                  <hi>Thin are the Threads that fill the Loom of Fate,</hi>
+               </l>
+               <l>Time deals with man, as man with Trees,</l>
+               <l>He ſtrikes the ſtately Timber down,</l>
+               <l>And lets the ignominious Weeds alone,</l>
+               <l>The <hi>Trees</hi> of <hi>Celcitude</hi> receive his blow,</l>
+               <l>Whilſt unaſpiring ſhrubs rejoyce and grow;</l>
+               <l>Death loves to play at <hi>Royal Game,</hi>
+               </l>
+               <l>Oft ſpares the <hi>Rural</hi> homely Dame,</l>
+               <l>And Strikes the <hi>Queen of Glory, Worth amd Fame?</hi>
+               </l>
+               <l>Thus a large <hi>Oak,</hi> that long had ſtood,</l>
+               <l>The top and Ornament of all the Wood,</l>
+               <l>Of each inferiour <hi>Tree,</hi>
+               </l>
+               <l>The ſheltring Monarch he,</l>
+               <l>Struck by the unregarding Ax, muſt lye,</l>
+               <l>On the cold ſurface Dead and Dry,</l>
+               <l>And mourn'd by all the <hi>Vegetable Family,</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101874:9"/>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101874:10"/>
+            <pb facs="tcp:101874:10" rendition="simple:additions"/>
+            <list>
+               <head>Books lately Printed for <hi>John Dunton,</hi> at the <hi>Ra<g ref="char:EOLhyphen"/>ven</hi> in <hi>Jewen-ſtreet.</hi>
+               </head>
+               <item>THE <hi>Hiſtory of all Religions in the World,</hi> from the Creation down to this preſent time, in 2 parts; the firſt containing their <hi>Theory.</hi> and the other relating their <hi>Practices.</hi> By, <hi>W. Turner,</hi> M. A. and Vicar of <hi>Walberton</hi> in <hi>Suſſex.</hi> Price bound 6 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>The Firſt and Second Volumes</hi> of the <hi>French</hi> book of Martyrs, publiſhed in <hi>Engliſh</hi> with her Majeſtie's Royal Privilege. Price 20 <hi>s.</hi>—<hi>The Third and Fourth Volumes,</hi> containing all the <hi>Perſecutions</hi> of <hi>Lewis</hi> the fourteenth, will be alſo done into <hi>Engliſh</hi> ſoon after the ſaid Volumes are publiſh'd in <hi>Hol<g ref="char:EOLhyphen"/>land.</hi>
+               </item>
+               <item>The <hi>Tigurine</hi> Liturgy, publiſhed with the approbation of Six Reverend Biſhops.</item>
+               <item>Dr. <hi>Burthogg</hi>'s Eſſay upon Reaſon, and the Nature of ſpirits, dedicated to Mr. <hi>Lock.</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>The Works</hi> of the Right Honourable <hi>Henry</hi> late Lord <hi>Delamer,</hi> and Earl of <hi>Warrington,</hi> containing his Lordſhip's Advice to his Children, with about 32 Original Manuſcripts, written with his Lordſhip's own hand. Price bound 5 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Malbranch</hi>'s <hi>Search after Truth,</hi> compleat, in Two Volumes, in <hi>Octavo.</hi> To which is added the Author's Defence againſt the Accuſations of Monſieur <hi>de la Ville;</hi> alſo the Life of Father <hi>Malbranch,</hi> of the Oratory at <hi>Paris;</hi> with an Account of his Works, and ſeveral particulars of his controverſie with Mon<g ref="char:EOLhyphen"/>ſieur <hi>Arnaud,</hi> Dr. of <hi>Sorbon,</hi> and Monſieur <hi>Regis,</hi> Profeſſor in Philoſophy at <hi>Paris.</hi> Written by Monſieur <hi>Le Vaſſor,</hi> lately come over from <hi>Paris: both Vo<g ref="char:EOLhyphen"/>lumes</hi> done out of <hi>French</hi> from the laft Edition, by Mr. <hi>Sault,</hi> Author of the New Treatiſe of <hi>Algebra:</hi> both Volumes 10 s.</item>
+               <item>
+                  <hi>Biſhop</hi> Barlow's <hi>Genuine Remains,</hi> containing near an hundred diſtinct ſub<g ref="char:EOLhyphen"/>jects, Theological, Philoſophical, Hiſtorical, <hi>&amp;c.</hi> Publiſhed from his Lordſhip's Original Papers, by Sir <hi>Peter Pett,</hi> Kt. Advocate General for the Kingdom of <hi>Ireland.</hi> Price bound 6 s.</item>
+               <item>A <hi>Detection of the Court and State of England,</hi> during the 4 laſt Reigns; and the <hi>Interregnum;</hi> conſiſting of ſecret Memoirs, <hi>&amp;c.</hi> with Obſervations and Reflections; Alſo an Appendix, diſcovering the preſent ſtate of the Nation; in two Volumes; by <hi>Roger Coke,</hi> 
+                  <abbr>Eſq</abbr> Price bound 8 <abbr>s.</abbr>
+               </item>
+               <item>
+                  <hi>Caſuiſtical Morning-Exerciſes,</hi> the 4<hi rend="sup">th</hi> Volume; by ſeveral Reverend Divines in and about <hi>London.</hi> Price bound 6 s.</item>
+               <item>
+                  <hi>The Tragedies of ſin</hi> contemplated in the Fall of man, the Ruin of the Angels, the deſtruction of the Old World, the confuſion of <hi>Babel,</hi> and conflagration of <hi>Sodom;</hi> by <hi>Stephen Jay,</hi> Rector of <hi>Chinner</hi> in <hi>Oxfordſhire.</hi> Price 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>A Practical Diſcourſe</hi> on 1 <hi>Theſ.</hi> 4.7. by <hi>John Brandon,</hi> Rector of <hi>Finchampſted.</hi>
+               </item>
+               <item>A <hi>Treatiſe of Fornication,</hi> by <hi>VV. Barlow,</hi> Rector of <hi>Chalgrave.</hi>
+               </item>
+               <item>
+                  <hi>The Divine Captain characteriz'd,</hi> in a Sermon preached by <hi>Edm. Hickeringal,</hi> Rector of <hi>All Saints</hi> in <hi>Colchester.</hi>
+               </item>
+               <item>
+                  <hi>The Frailty and <g ref="char:V">Ʋ</g>ncertainty</hi> of the life of man, delivered in a Sermon at the Funeral of a perſon that died ſuddenly, by the Reverend Mr. <hi>W. Buſh,</hi>
+               </item>
+               <item>
+                  <hi>A Practical Diſcourſe upon Col.</hi> 3.5. by <hi>R. Carr,</hi> Vicar of <hi>Sutton.</hi>
+               </item>
+               <item>Dr. <hi>Singleton</hi>'s Practical Diſcourſes upon 1 <hi>John</hi> 12.28.</item>
+               <item>
+                  <pb facs="tcp:101874:11" rendition="simple:additions"/>
+                  <hi>An account of the Converſion</hi> of <hi>Theodore John,</hi> a late Teacher among the <hi>Jews.</hi>
+               </item>
+               <item>
+                  <hi>Heads of Agreement</hi> aſſented to by the United Miniſters, price 4 d.</item>
+               <item>
+                  <hi>The Life</hi> of the Reverend Mr. <hi>Thomas Brand,</hi> written by Dr. <hi>Anneſley,</hi> price 1 s.</item>
+               <item>
+                  <hi>Practical Diſcourſes</hi> on ſickneſs and recovery, in ſeveral ſermons as they were lately Preached in a Congregation in <hi>London,</hi> by <hi>T. Rogers,</hi> M. A. after his recovery from a ſickneſs of near two years continuance.</item>
+               <item>
+                  <hi>Early Religion,</hi> or a Diſcourſe of the Duty and Intereſt of youth. The ſe<g ref="char:EOLhyphen"/>cond Edition. Price 1 s.</item>
+               <item>
+                  <hi>Fall not out by the way,</hi> or a perſwaſion to a friendly Correſpondence between the Conformiſts and Nonconformiſts, in a Funeral Diſcourſe on <hi>Gen.</hi> 45.24. occaſioned by the deſire of <hi>Mr. Anthony, Dunwell,</hi> in his laſt Will. All 3 writ<g ref="char:EOLhyphen"/>ten by <hi>T. Rogers, M. A.</hi> Price 1 s.</item>
+               <item>
+                  <hi>The Mourners Companion,</hi> or Funeral Diſcourſes on ſeveral Texts, by <hi>John Shower,</hi> price 1 s. 6 d.</item>
+               <item>
+                  <hi>Menſalia Sacra,</hi> or meditations on the Lord's ſupper, by the Reverend <hi>Mr. F. Crow, M. A.</hi> late miniſter at <hi>Clare</hi> in <hi>Suffolk,</hi> price 1 s.</item>
+               <item>
+                  <hi>A Pradical Diſcourſe</hi> on the late Earthquakes, by a Reverend Divine, price 6 d.</item>
+               <item>
+                  <hi>Triunity,</hi> or the Doctrine of the Holy Trinity aſſerted in a Diſcourſe on 2 <hi>Cor.</hi> 13.14. by <hi>Iſaac Mauduit,</hi> miniſter of the Goſpel, price 6 d.</item>
+               <item>
+                  <hi>An Earneſt Call to Family Catechiſm</hi> and Reformation, by a Reverend Divine, price 6 d. or 50 for 20 s.</item>
+               <item>
+                  <hi>Comfort for Parents</hi> mourning over their Hopeful Children that dye young, by T. <hi>Whitaker,</hi> miniſter at <hi>Leeds</hi> in <hi>Yorkſhire.</hi>
+               </item>
+               <item>The 3<hi rend="sup">d</hi> Edition of the Life and Death of the Reverend Mr. <hi>John Elliot,</hi> who was the firſt Preacher of the Goſpel to the <hi>Indians</hi> in <hi>America;</hi> with an Account of the wonderful ſucceſs which the Goſpel has had amongſt the Heathens in that part of the World. Written by <hi>Cotton Mather,</hi> price 1 s.</item>
+               <item>A <hi>new book of Trade,</hi> entituled <hi>Panarithmilogia,</hi> by <hi>W. Leybourn,</hi> Author of <hi>Curſus Mathematicus,</hi> price 4 s. 6 d.</item>
+               <item>
+                  <hi>Goſpel Truth</hi> ſtated and vindicated, by the Reverend Mr. <hi>D. Williams.</hi> The ſecond Edition, price 1 s.</item>
+               <item>
+                  <hi>The Tryals of ſeveral Witehes</hi> lately Executed in <hi>New-England,</hi> publiſhed by the ſpecial Command of his Excellency the Governor of <hi>New-England.</hi> The third Edition, price 1 s.</item>
+               <item>
+                  <hi>Lachrymae Sacerdotis.</hi> A Pindarick Poem Occaſion'd by the Death of that moſt excellent Princeſs, our late <hi>Gracious Sovereign Lady, Mary</hi> the Second of Glorious memory. By <hi>Henry Park,</hi> Curate of <hi>Wentworth</hi> in <hi>Yorkſhire.</hi>
+               </item>
+               <item>
+                  <g ref="char:dtristar">*⁎*</g> All theſe aforeſaid books are ſold by <hi>John Dunton,</hi> at the <hi>Raven</hi> in <hi>Jew<g ref="char:EOLhyphen"/>en-street,</hi> and alſo by <hi>Edm. Richardſon</hi> near the <hi>Poultrey-Church.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <list>
+               <head>Advertiſement.</head>
+               <item>☞ <hi>Propoſals and Specimens for Recording the moſt Remarkable Providences and Events,</hi> &amp;c. <hi>that have happened in this preſent Age,</hi> will ſpeedily be publiſht by the <hi>undertakers.</hi>
+               </item>
+               <item>☞ <hi>The Orations on the Queens Death,</hi> by <hi>Frederick Spanheim,</hi> Dr. <hi>Perizonius,</hi> and Mr. <hi>Orminius,</hi> will ſpeedily be publiſh'd in <hi>Eng<g ref="char:EOLhyphen"/>liſh.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:101874:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
